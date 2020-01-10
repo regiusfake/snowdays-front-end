@@ -166,8 +166,8 @@ function Event() {
                                                 <h4>Go ahead and do your best!</h4>
                                                 <p>
                                                     Compete with other universities in races and tournaments, 
-                                                    and try some new sports with your best friends or other fantastic people you may meet around here. 
-                                                    Here are all the sport activities you can try:
+                                                    and try new sports with your best friends or other fantastic people you may meet around. 
+                                                    Here are some of sport activities you can get yourself in:
                                                 </p>
                                                 <ul className="explanationList">
                                                     <li className="explanationListItem">Ski</li>
@@ -182,7 +182,7 @@ function Event() {
                                         <TabPane tabId="iconPills2">
                                             <h4>Snowdays cares also about your entertainment</h4>
                                             <p>
-                                                Enjoy partying both on the ski slopes’ basecamp and at night!
+                                                Enjoy partying both on the ski slopes’ and at nighttime!
                                                 Three days means <b>three different theme parties</b> in <b>three different locations</b>, you will not let yourself down! 
                                             </p>                                            
 
