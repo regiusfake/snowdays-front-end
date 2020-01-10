@@ -167,6 +167,7 @@ function Event() {
                                                 <p>
                                                     Compete with other universities in races and tournaments, 
                                                     and try new sports with your best friends or other fantastic people you may meet around. 
+                                                    <br>
                                                     Here are some of sport activities you can get yourself in:
                                                 </p>
                                                 <ul className="explanationList">
@@ -183,7 +184,7 @@ function Event() {
                                             <h4>Snowdays cares also about your entertainment</h4>
                                             <p>
                                                 Enjoy partying both on the ski slopes’ and at nighttime!
-                                                Three days means <b>three different theme parties</b> in <b>three different locations</b>, you will not let yourself down! 
+                                                Three days means three different theme parties in three different locations, you will not let yourself down! 
                                             </p>                                            
 
                                         </TabPane>
